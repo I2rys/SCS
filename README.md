@@ -1,10 +1,7 @@
 <h1 align="center">SCS</h1>
 <h4 align="center">Steam cookies stealer</h4>
-</p>
-	<img src="https://github.com/I2rys/SCS/raw/main/preview.PNG?raw=true"></img>
 <p align="center">
 	<a href="https://github.com/I2rys/SCS/blob/main/LICENSE"><img src="https://img.shields.io/github/license/I2rys/SCS?style=flat-square"></img></a>
-	<a href="https://github.com/I2rys/SCS"><img src="https://bettercodehub.com/edge/badge/I2rys/SCS?branch=main"></a>
 	<a href="https://github.com/I2rys/SCS/issues"><img src="https://img.shields.io/github/issues/I2rys/SCS.svg"></img></a></a>
 	<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js"></img></a>
 </p>
